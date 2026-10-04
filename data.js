@@ -28,7 +28,7 @@ const data = {
         "I dont look like a nerd but i actually wear glasses LOL",
         "Sometimes when i get exhausted while coding i listen to asmr in the background",
         "Semblance Of Sanity is my favourite reaction channel, their experissions are amazing and they look like my irl brothers lol. Other than them i also like: YaBoyRoshi and Carlie&Ange channels",
-        "I larp mr robot im on the second season LOL", 
+        "I larp mr robot im on the second season 💔", 
         "This is a SUPER nerd thingy but i love yu-gi-oh lol, my fave card game is either uno, monopoly cards or yugioh"
       ],
     },
