@@ -42,6 +42,7 @@ const data = {
         "The less i know the better - Tame Impala",
         "Borderline - Tame Impala",
         "Nightcall - Kavinsky",
+        "The Night Begins to Shine - B.E.R",
         "I really want to stay in your house - Cyberpunk: Edgerunners",
         "Let you down - Cyberpunk: Edgerunners (Ending Theme)",
         "Sidewinger - Avenged Sevenfold",
@@ -71,7 +72,8 @@ const data = {
         "Tek It - Cafune",
         "Duvet - Boa",
         "505 - Artic Monkeys",
-        "A new kind of love - Frou frou"
+        "A new kind of love - Frou frou",
+        "Back to friends - Sombr"
       ]
     },
     {
@@ -205,6 +207,11 @@ const data = {
           "Piano",
           "Teaching people stuff",
           "Food"
+        ]
+        },
+        { text: '"Do you go to school?"' },
+        { items: [
+          "I do! And i pretty much enjoy school, most of you have also been asking me 'should i drop school and go start developing fulltime' this is a topic id rather you guys to NOT rely on my answer, i dont really suggest dropping the school UNLESS your really good at what you do and you are capable of activelly creating games, because school is more of like a fallback plan, you need a job just incase things flip upside down and you cant just live unemployed right? Also i believe school is AMAZING for socialising, lonelyness is a very bad thing and school solves this, most of it. Its good to take small pauses so you dont have a burnout",
         ]
         },
       ],
